@@ -1,6 +1,6 @@
 {
     "name": "tarantella110/filing-check",
-    "description": "check the filing document,filinglist,filing structure of filing e-records",
+    "description": "Mainly used in the field of archives，check the filing document,filinglist,filing structure of e-records",
     "type": "archive",
     "license": "LGPL-2.1-only",
     "autoload": {
