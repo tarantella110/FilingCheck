@@ -1,0 +1,28 @@
+{
+    "name": "tarantella110/filing-check",
+    "description": "check the filing document,filinglist,filing structure of filing e-records",
+    "type": "archive",
+    "license": "LGPL",
+    "autoload": {
+        "psr-4": {
+            "Tarantella110\\FilingCheck\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tarantella110",
+            "email": "enjude@126.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tarantella110\\FilingCheck\\FilingCheckServiceProvider"
+            ],
+            "aliases": {
+                "FilingCheck": "Tarantella110\\FilingCheck\\FilingCheck"
+            }
+        }
+    },
+    "require": {}
+}
