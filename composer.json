@@ -2,7 +2,7 @@
     "name": "tarantella110/filing-check",
     "description": "check the filing document,filinglist,filing structure of filing e-records",
     "type": "archive",
-    "license": "LGPL",
+    "license": "LGPL-2.1-only",
     "autoload": {
         "psr-4": {
             "Tarantella110\\FilingCheck\\": "src/"
