@@ -20,7 +20,7 @@
                 "Tarantella110\\FilingCheck\\FilingCheckServiceProvider"
             ],
             "aliases": {
-                "FilingCheck": "Tarantella110\\FilingCheck\\FilingCheck"
+                "FilingCheck": "Tarantella110\\FilingCheck\\Facades\\FilingCheck"
             }
         }
     },
